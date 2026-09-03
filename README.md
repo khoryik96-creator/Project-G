@@ -1,5 +1,7 @@
 # Project G
 
+> **Live reader:** https://khoryik96-creator.github.io/Project-G/
+
 A mobile-first light/short novel reader built with **React 19 + TypeScript + ESLint + Vite**.
 
 The architecture is intentionally similar to the Lucy / Despicable Heretic reader: typed manuscript data, static hash routing, device-local bookmarks, Continue Reading, mobile navigation and GitHub Pages deployment — but without the legacy dual-reader migration layer.
@@ -44,4 +46,6 @@ Replace the starter manuscript in `src/content/story.ts`. Keep UI code free of c
 
 ## GitHub Pages
 
-The Vite base path is already configured for `/Project-G/`. Merging the feature PR into `main` triggers the included Pages workflow. If this repository has never used Pages before, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions** once.
+**Reader URL:** https://khoryik96-creator.github.io/Project-G/
+
+The Vite base path is already configured for `/Project-G/`. Merging changes into `main` triggers the included Pages workflow. If this repository has never used Pages before, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions** once.
