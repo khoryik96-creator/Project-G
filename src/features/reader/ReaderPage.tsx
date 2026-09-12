@@ -14,6 +14,51 @@ interface ReaderPageProps {
   onPreferencesChange: (preferences: ReaderPreferences) => void;
 }
 
+interface DialoguePalette {
+  color: string;
+  background: string;
+  shadow: string;
+}
+
+const namedDialoguePalettes: Record<string, { night: DialoguePalette; paper: DialoguePalette }> = {
+  'Xu Kai': {
+    night: { color: '#e3bd72', background: 'rgba(227, 189, 114, 0.09)', shadow: 'rgba(227, 189, 114, 0.08)' },
+    paper: { color: '#7a571d', background: 'rgba(122, 87, 29, 0.08)', shadow: 'rgba(122, 87, 29, 0.06)' },
+  },
+  'Jian Yue': {
+    night: { color: '#ef8f9f', background: 'rgba(239, 143, 159, 0.09)', shadow: 'rgba(239, 143, 159, 0.08)' },
+    paper: { color: '#98384b', background: 'rgba(152, 56, 75, 0.08)', shadow: 'rgba(152, 56, 75, 0.06)' },
+  },
+};
+
+const fallbackDialoguePalettes = [
+  {
+    night: { color: '#90c9d8', background: 'rgba(144, 201, 216, 0.08)', shadow: 'rgba(144, 201, 216, 0.07)' },
+    paper: { color: '#356f7d', background: 'rgba(53, 111, 125, 0.07)', shadow: 'rgba(53, 111, 125, 0.05)' },
+  },
+  {
+    night: { color: '#b9a2e8', background: 'rgba(185, 162, 232, 0.08)', shadow: 'rgba(185, 162, 232, 0.07)' },
+    paper: { color: '#674d9b', background: 'rgba(103, 77, 155, 0.07)', shadow: 'rgba(103, 77, 155, 0.05)' },
+  },
+  {
+    night: { color: '#8fd0ae', background: 'rgba(143, 208, 174, 0.08)', shadow: 'rgba(143, 208, 174, 0.07)' },
+    paper: { color: '#3f795d', background: 'rgba(63, 121, 93, 0.07)', shadow: 'rgba(63, 121, 93, 0.05)' },
+  },
+  {
+    night: { color: '#e7a87a', background: 'rgba(231, 168, 122, 0.08)', shadow: 'rgba(231, 168, 122, 0.07)' },
+    paper: { color: '#91582f', background: 'rgba(145, 88, 47, 0.07)', shadow: 'rgba(145, 88, 47, 0.05)' },
+  },
+];
+
+function paletteForSpeaker(speaker: string, theme: ReaderPreferences['theme']): DialoguePalette {
+  const named = namedDialoguePalettes[speaker];
+  if (named) return named[theme];
+
+  let hash = 0;
+  for (const character of speaker) hash = (hash * 31 + character.charCodeAt(0)) >>> 0;
+  return fallbackDialoguePalettes[hash % fallbackDialoguePalettes.length][theme];
+}
+
 export function ReaderPage({
   chapter,
   previous,
@@ -79,9 +124,23 @@ export function ReaderPage({
             }
 
             if (segment.kind === 'dialogue') {
+              const palette = paletteForSpeaker(segment.speaker, preferences.theme);
+              const dialogueStyle: CSSProperties = {
+                border: `1px solid ${palette.color}`,
+                borderLeft: `4px solid ${palette.color}`,
+                borderRadius: '14px',
+                background: palette.background,
+                padding: '14px 16px',
+                boxShadow: `0 10px 28px ${palette.shadow}`,
+              };
+
               return (
-                <blockquote className={`dialogue dialogue--${segment.accent ?? 'neutral'}`} key={`${chapter.id}-${index}`}>
-                  <strong>{segment.speaker}</strong>
+                <blockquote
+                  className={`dialogue dialogue--${segment.accent ?? 'neutral'}`}
+                  style={dialogueStyle}
+                  key={`${chapter.id}-${index}`}
+                >
+                  <strong style={{ color: palette.color }}>{segment.speaker}</strong>
                   <p>“{segment.text}”</p>
                 </blockquote>
               );
