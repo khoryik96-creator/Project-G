@@ -1,543 +1,296 @@
 # Project G — Story Proposal
 
-> Status: **Proposal / not canon-locked**
+> Status: **Approved direction / active writing**
 >
-> Purpose: define a strong story direction for Project G before replacing the current starter manuscript in `src/content/story.ts`.
+> The previous Quiet Archive placeholder direction has been retired. This document now tracks the martial-world story selected for Project G.
 
 ---
 
-## 1. Core Concept
+## Working Title
 
-### Working Title
+**The Most Dangerous Civilian**
 
-**The Quiet Archive**
-
-Alternative titles:
-
-- **Before Tomorrow**
-- **The Stories That Haven't Happened Yet**
-- **The Last Page Is Missing**
-- **The Archive Beneath the City**
-
-### Genre
-
-- Urban mystery
-- Supernatural thriller
-- Light fantasy / speculative fiction
-- Character-driven adventure
-- Slow-burn romance
-- Short/light novel structure
-
-### Core Hook
-
-Two ordinary young adults discover a hidden archive beneath their city containing books that document events **before they happen**.
-
-Most volumes describe small, forgettable moments.
-
-Some describe accidents.
-
-Some describe murders.
-
-And one unfinished book appears to describe **their own lives**.
-
-The problem: every time they interfere with a written event, the archive changes something else.
-
-The deeper they investigate, the clearer it becomes that the archive does not simply predict the future.
-
-It may be **writing it**.
+Alternative title ideas can be explored later. The reader can continue using **Project G** as the public project name until the novel title is final.
 
 ---
 
-## 2. Story Promise
+## Core Premise
 
-Project G should feel easy to read chapter-to-chapter while carrying a larger mystery underneath.
+Xu Kai is an absurdly powerful martial artist who has no interest in solving problems with martial arts.
 
-Each short arc should give the reader:
+He prefers lies, bargains, traps, psychology, economics, social engineering, shameless bluffs, and whatever other ridiculous method makes the problem more interesting.
 
-1. a mystery that can be understood quickly,
-2. a character or event connected to the archive,
-3. an emotional decision for the main cast,
-4. a consequence caused by changing a written future,
-5. one new piece of the larger archive mystery.
+He does not hide his strength because he is afraid of being discovered.
 
-The story should avoid becoming a repetitive "future case of the week" series. Individual incidents should increasingly connect into factions, missing people, altered histories, and the true origin of the archive.
+He hides it because, in his own words, **punching people is boring**.
 
----
+After Xu Kai dismantles a provincial rebellion without visibly throwing a single punch, the court reaches a disturbing conclusion: an unaffiliated civilian just manipulated soldiers, merchants, officers, and rebel commanders more efficiently than the state intelligence apparatus.
 
-## 3. Main Characters
+A confidential classification is created for him:
 
-## Ari
+- **Combat ability:** Unknown / apparently negligible
+- **Strategic threat:** Extreme
+- **Political influence:** Unclear and increasing
+- **Psychological profile:** Uncooperative, irreverent, possibly unstable
+- **Recommendation:** Continuous National-Tier supervision
 
-### Role
+The person assigned to supervise him is Jian Yue, National Tier #2 and one of the country's Five Pillars.
 
-Primary male lead.
+She expects a dangerous mastermind.
 
-### Proposed Personality
+She finds an infuriating man arguing over the price of tea.
 
-- curious to the point of recklessness,
-- naturally witty rather than constantly comedic,
-- uncomfortable leaving mysteries unanswered,
-- acts quickly when someone is in danger,
-- often appears carefree when he is actually afraid of becoming irrelevant or powerless.
+He calls her **“Oi.”**
 
-### Strength
-
-Ari is good at noticing inconsistencies in stories, testimony, photographs, and written records.
-
-He is not a genius detective. His strength is persistence and pattern recognition.
-
-### Flaw
-
-He believes that knowing a bad future creates an obligation to prevent it, even when he does not understand the cost.
-
-### Long-Term Arc
-
-Ari begins believing every tragedy can be prevented if someone acts early enough.
-
-He eventually has to confront a harder question:
-
-**If saving one future destroys another, who gives him the right to choose?**
+Nobody else in the country would dare.
 
 ---
 
-## Mina
+## Story Identity
 
-### Role
+Project G should be a dialogue-heavy martial light novel built around four engines:
 
-Primary female lead.
+1. **Xu Kai solves dangerous problems through unhinged intelligence instead of strength.**
+2. **Jian Yue believes she has to protect him.**
+3. **The Five Pillars increasingly suspect this civilian is a national-level problem, although not for the real reason.**
+4. **Readers gradually realize Xu Kai is physically far beyond what anyone around him understands.**
 
-### Proposed Personality
+The Five Pillars are not evil. They are legitimate protectors of the country and have reasonable reasons to distrust Xu Kai.
 
-- practical,
-- dry sense of humour,
-- emotionally observant,
-- initially more cautious than Ari,
-- capable of taking far greater risks once she believes they are necessary.
-
-### Strength
-
-Mina reads people better than Ari reads clues.
-
-She notices fear, lies, grief, hesitation, and relationships that do not match what the archive claims happened.
-
-### Flaw
-
-She prefers protecting people through control and preparation, which can become secrecy.
-
-### Long-Term Arc
-
-Mina begins as the person constantly asking whether Ari should interfere.
-
-Over time she may become the more dangerous of the two because she learns exactly **when** intervention matters.
-
-Her central question becomes:
-
-**Is a painful truth still worth protecting if a kinder lie would save someone?**
+That distinction matters. Conflict should come from incompatible methods, incomplete information, personality clashes, and national responsibility rather than cartoon villainy.
 
 ---
 
-## Ari & Mina Dynamic
+## Xu Kai — Male Lead
 
-Their relationship should be a major emotional spine of the novel without overtaking the mystery.
+### Public Image
 
-Recommended progression:
+A clever but physically unimpressive civilian strategist with an alarming habit of appearing wherever national disasters are happening.
 
-- already comfortable with each other before the archive,
-- teasing and arguments feel lived-in rather than flirtation for the audience,
-- early trust becomes reliance,
-- reliance becomes fear of losing one another,
-- both eventually conceal archive information from the other "for their own protection",
-- the relationship is tested not by a cheap misunderstanding but by genuinely different moral choices.
+### Reality
 
-Romance should develop slowly and visibly through behaviour rather than constant internal narration.
+Xu Kai is monstrously powerful. His true martial ceiling is deliberately undefined early in the story, but National Tier is not meant to be his limit.
 
----
+### Personality
 
-## 4. The Quiet Archive
+- brilliant
+- shameless
+- calm under pressure
+- observant
+- playful
+- manipulative without being needlessly cruel
+- impossible to intimidate
+- enjoys annoying powerful people
+- capable of frightening seriousness when he stops joking
 
-### Location
+### Core Philosophy
 
-The archive exists several floors beneath a shop that should not physically have enough underground space to contain it.
+Xu Kai does not dislike fighting because he is peaceful.
 
-The entrance can move.
+He dislikes fighting because it is usually the least interesting solution.
 
-The shop may appear under different names, at different addresses, and sometimes in places that have been demolished for years.
+His schemes should sound ridiculous when first proposed, then become logical in hindsight.
 
-### The Books
+He should never feel random for the sake of comedy. The reader should eventually be able to look backward and see the chain of reasoning.
 
-Every volume is tied to a person, place, event, or possible sequence of events.
+### Martial Reveal Rule
 
-Possible labels include:
+Do not reveal Xu Kai's full martial ability early.
 
-- names,
-- dates,
-- addresses,
-- events,
-- objects,
-- blank spines.
+Small impossible moments are allowed:
 
-### Initial Rule
+- an attack misses by an absurd margin,
+- a weapon breaks at the wrong time,
+- an assassin ends up unconscious when nobody saw what happened,
+- Xu Kai notices killing intent before trained martial artists react,
+- someone far stronger than expected becomes strangely unwilling to attack him.
 
-A book can contain events that have not happened yet.
+The first undeniable reveal should matter emotionally.
 
-### Stronger Rule
-
-The writing is not fixed prediction.
-
-Text can change when people make meaningful choices.
-
-Some sentences disappear.
-
-Some rewrite themselves.
-
-Some pages become blank.
-
-Rarely, entire books vanish.
-
-### Most Important Rule
-
-**The archive never explains consequences in full.**
-
-Stopping the event written on one page may alter a different book somewhere else.
-
-This prevents the archive from becoming an easy cheat code.
+When Xu Kai finally chooses direct violence, the audience should understand that the situation has crossed a line.
 
 ---
 
-## 5. Proposed Mystery Layers
+## Jian Yue — Female Lead
 
-The central mystery should unfold in layers.
+### Rank
 
-### Layer 1 — What is this place?
+**National Tier #2**
 
-Ari and Mina discover books dated in the future and confirm that at least one predicted event is real.
+### Public Reputation
 
-### Layer 2 — Can the future be changed?
+One of the Five Pillars and among the strongest known martial artists in the country.
 
-They successfully prevent something from happening.
+She is respected, feared, disciplined, and used to every room becoming formal the moment she enters.
 
-The victory appears clean at first.
+### Personality
 
-Then another book changes.
+Jian Yue is a proud, sharp-tongued **tsundere**.
 
-### Layer 3 — Who else knows?
+She is not childish or helpless. Her tsundere behavior comes from pride, emotional awkwardness, and the fact that Xu Kai is the only person who consistently treats her like an ordinary woman rather than a national weapon.
 
-They discover other people have visited the archive.
+She is:
 
-Some want to protect it.
+- terrifyingly competent in combat,
+- direct,
+- stubborn,
+- protective,
+- easily irritated by Xu Kai,
+- increasingly fond of him,
+- terrible at admitting that fondness,
+- capable of dry humor once Xu Kai wears down her formality.
 
-Some exploit it.
+### “Oi” Rule
 
-Some believe nobody should interfere with written events.
+Xu Kai casually calls Jian Yue **“Oi.”**
 
-### Layer 4 — Why are records missing?
+At first she hates it.
 
-Certain years, people, and incidents have no books at all.
+Later it becomes something only he is allowed to do.
 
-Photographs above the original shop counter suggest someone deliberately removed them.
+Someone else trying it should be treated as either suicidal or very unlucky.
 
-### Layer 5 — Why do Ari and Mina have a shared volume?
-
-Most archive books concern individual subjects.
-
-Ari and Mina find one volume that only changes when **both** of them make a decision.
-
-### Layer 6 — The archive remembers deleted histories
-
-People may forget timelines that were overwritten.
-
-The archive does not.
-
-Ari and Mina begin finding records of lives and relationships nobody else remembers.
-
-### Layer 7 — The archive may not predict reality
-
-Final long-term reveal direction:
-
-The archive could be one of three things:
-
-1. **Observer** — it records the most likely future.
-2. **Editor** — it subtly pushes events toward written outcomes.
-3. **Prison** — it contains discarded timelines that would otherwise return.
-
-Recommended option: combine **Editor + Prison**.
-
-The archive was created to stabilize reality by selecting one version of events and suppressing the rest.
-
-Changing books does not simply create a new future.
-
-It may release pieces of futures that were previously erased.
+The word can eventually become emotionally meaningful because it is *theirs*.
 
 ---
 
-## 6. Factions
+## Xu Kai + Jian Yue Dynamic
 
-These should be introduced gradually rather than all at once.
+The relationship is a major engine of the novel.
 
-## The Custodians
+Progression:
 
-People who maintain archive rules and believe intervention should be extremely limited.
+**suspect → supervisor → unwilling partner → habitual companion → protector → obvious attachment → romance**
 
-They are not automatically villains.
+Jian Yue's recurring excuse for voluntarily spending time with Xu Kai is:
 
-Their argument is reasonable: countless disasters may have been prevented because the archive keeps reality stable.
+**“I am supervising him.”**
 
-## The Redactors
+This excuse should become less convincing every season.
 
-A group that deliberately removes or rewrites future records.
+She believes Xu Kai's mind makes him dangerous but his lack of martial ability makes him vulnerable.
 
-They believe history is already manipulated and that controlling the archive is simply admitting the truth.
+That creates the central romantic irony:
 
-Their methods can become ruthless.
+**one of the strongest women alive keeps putting herself between danger and a man who could probably defeat the danger, her, and everyone else in the room.**
 
-## The Unwritten
+Xu Kai initially finds this funny.
 
-People whose futures no longer appear in the archive.
-
-Some became Unwritten accidentally.
-
-Others intentionally erased themselves.
-
-They are extremely difficult for archive-dependent characters to predict.
-
-## The Missing Archivist
-
-A former keeper of the shop whose photograph was removed from the wall.
-
-This character should initially feel like the obvious mastermind.
-
-Later, reveal that they disappeared because they discovered something even the Custodians refused to acknowledge.
+Eventually he begins quietly protecting her in return.
 
 ---
 
-## 7. Power / Ability Philosophy
+## The Five Pillars
 
-Project G does not need a traditional combat power system unless the story later demands one.
+The Five are the country's recognized National-Tier defenders.
 
-The core "power" should be information, memory, causality, and choice.
+They are not a villain group.
 
-Possible supernatural effects:
+Each should eventually represent a different approach to protecting the nation: military command, martial authority, intelligence, imperial security, and independent martial power.
 
-- remembering overwritten events,
-- seeing text disappear in real time,
-- entering preserved scenes stored inside damaged books,
-- carrying objects from erased timelines,
-- temporarily becoming Unwritten,
-- recognizing people who technically never existed.
+Only Jian Yue is locked in detail at this stage.
 
-If physical confrontations occur, they should remain dangerous and grounded. Knowing a future should help, but never guarantee victory.
+### #2 — Jian Yue
 
----
+Female lead. Sword specialist. Xu Kai's assigned National-Tier supervisor.
 
-## 8. Season Structure Proposal
+### Remaining Four
 
-Recommended format: **8–12 short chapters per season**.
-
-Individual chapters can remain compact and mobile-friendly rather than being forced to hit a fixed word count.
-
-## Season 1 — The Envelope
-
-### Purpose
-
-Introduce Ari, Mina, the shop, and the existence of future records.
-
-### Major Beats
-
-- late-night station,
-- mysterious envelope,
-- address leading to the impossible shop,
-- two cups already waiting,
-- missing photograph on the wall,
-- brass key,
-- hidden elevator,
-- discovery of the archive,
-- first future-dated book,
-- first successful intervention.
-
-### Finale
-
-They celebrate changing the future.
-
-Then a completely unrelated book rewrites itself.
-
-Someone who was supposed to survive is now marked dead.
+Names, ranks, techniques, and personalities remain open until their arcs are required. Avoid over-designing them before the story needs them.
 
 ---
 
-## Season 2 — The Price of Editing
+## Season 1 — The Most Dangerous Civilian
 
-### Purpose
+### Arc Purpose
 
-Establish consequences.
+Introduce Xu Kai through action rather than exposition, establish why the state is alarmed by him, then bring Jian Yue into his life.
 
-### Major Beats
+### Opening Situation
 
-- Ari wants to keep saving people,
-- Mina starts documenting every altered event,
-- they discover changes nobody else remembers,
-- first encounter with another archive user,
-- introduction of the Custodians,
-- evidence that someone has removed entire books.
+A provincial city has been seized by rebels.
 
-### Finale
+Xu Kai happens to be inside.
 
-Ari finds a book with Mina's name.
+Instead of fighting the rebel army, he dismantles it through pressure points that have nothing to do with meridians:
 
-Most pages are missing.
+- food prices,
+- payroll,
+- mistrust between commanders,
+- merchant cooperation,
+- rumors,
+- status anxiety,
+- forged expectations rather than forged supernatural evidence.
 
-The final surviving sentence reads:
+By the time government forces reach the city, the rebellion has effectively surrendered itself.
 
-**She remembers the version where you died.**
+### Consequence
 
----
+The court is more disturbed than grateful.
 
-## Season 3 — The Unwritten
+A civilian should not have been able to do that.
 
-### Purpose
+Jian Yue is assigned to investigate and supervise him.
 
-Expand the world beyond the archive itself.
+### Relationship Opening
 
-### Major Beats
+Their first proper meeting must establish their chemistry immediately.
 
-- a person appears who has no corresponding book,
-- the archive cannot predict them,
-- impossible discrepancies begin spreading,
-- Mina remembers an event Ari does not,
-- first hints of erased timelines,
-- Redactors introduced.
+Jian Yue expects deference.
 
-### Finale
+Xu Kai gives her:
 
-Ari discovers a photograph of himself inside an archive record dated years before he was born.
+**“Oi.”**
 
 ---
 
-## Season 4 — A City That Never Happened
+## Dialogue & Reader Presentation
 
-### Purpose
+Project G should contain substantially more dialogue than a traditional prose-heavy novel.
 
-Show the emotional scale of overwritten reality.
+Target for normal chapters:
 
-### Major Beats
+- approximately **55–70% dialogue**,
+- narration used for movement, atmosphere, internal implications, and action,
+- avoid enormous exposition blocks when information can emerge through character conflict.
 
-- entire streets intermittently appear different,
-- citizens remember conflicting versions of the city,
-- an erased person returns,
-- Ari and Mina disagree over whether that person should remain,
-- Custodians attempt containment,
-- the Missing Archivist becomes central.
+### Character Dialogue Cards
 
-### Finale
+Every recurring named character should have a consistent visual identity in the React reader.
 
-The pair learn that the archive is not beneath the city.
+Dialogue should render inside a clear card/box containing:
 
-Parts of the city may have been built **around the archive** after an earlier reality was erased.
+- character name,
+- permanent accent color,
+- bordered container,
+- readable contrast in night and paper modes.
 
----
+Initial colors:
 
-## Season 5 — The Missing Page
+- **Xu Kai:** warm gold
+- **Jian Yue:** crimson / rose
+- other recurring characters receive stable colors as they become important.
 
-### Purpose
-
-Bring the first major saga to a climax.
-
-### Major Beats
-
-- archive instability,
-- multiple possible futures appearing simultaneously,
-- Ari becomes temporarily Unwritten,
-- Mina is the only person who remembers him,
-- truth behind the Missing Archivist,
-- reveal of the archive's stabilizing function,
-- Ari and Mina forced to choose between restoring a lost timeline or protecting the current one.
-
-### Ending Direction
-
-They refuse both predetermined choices.
-
-Instead of destroying or obeying the archive, they create a new category of record:
-
-**an unwritten page that remains intentionally open.**
-
-This can close the first major arc while leaving room for future seasons.
+Narration remains unboxed.
 
 ---
 
-## 9. Tone
+## Tone Rules
 
-The story should balance:
+The story should be funny without becoming consequence-free.
 
-- quiet atmosphere,
-- dry humour,
-- emotional mystery,
-- occasional horror,
-- romantic tension,
-- escalating consequences.
+Xu Kai's wit is allowed to be outrageous, but competent opponents remain competent.
 
-Avoid making every chapter grim.
+Jian Yue should never be reduced to a romance accessory. She is National Tier #2 and must remain formidable even when she is flustered by Xu Kai.
 
-The ordinary city life around the supernatural mystery is important because it gives the reader something worth protecting.
+Romance grows through behavior, banter, trust, protectiveness, and shared danger rather than immediate confessions.
 
-Recommended recurring scenes:
-
-- late-night food,
-- train rides,
-- arguments in convenience stores,
-- library/archive research,
-- Mina forcing Ari to think before touching suspicious objects,
-- Ari pretending he was absolutely going to think first,
-- quiet conversations after they fail to save someone,
-- increasingly intimate moments that neither character calls romantic yet.
+Xu Kai's rare serious moments should carry weight precisely because he jokes so often.
 
 ---
 
-## 10. What Makes Project G Different
+## Current Writing Status
 
-The strongest identity should be:
+Season 1 writing has begun.
 
-> **A mystery novel where knowing the future creates more uncertainty, not less.**
-
-The archive should never become a simple prophecy machine.
-
-Every answer should create a more interesting question.
-
-The emotional focus stays on Ari and Mina deciding what responsibility comes with knowing what may happen next.
-
----
-
-## 11. Canon Rules to Lock Before Full Writing
-
-Before replacing the starter manuscript, decide the following:
-
-- final title,
-- Ari and Mina's ages,
-- their relationship before Chapter 1,
-- city / country setting,
-- whether the supernatural is publicly known,
-- exact origin of the archive,
-- whether alternate timelines physically exist or only leave remnants,
-- whether dead characters can ever return through overwritten timelines,
-- who created the Custodians,
-- identity and motivation of the Missing Archivist,
-- whether Ari or Mina has a prior connection to the archive,
-- final answer to what their shared book means.
-
-These should be canon-locked before later seasons are fully drafted to avoid retroactive contradictions.
-
----
-
-## 12. Recommended Next Step
-
-If this direction is approved:
-
-1. lock the main premise and character profiles,
-2. create `STORY_CANON.md`,
-3. create a detailed Season 1 skeleton,
-4. replace the current starter chapters in `src/content/story.ts`,
-5. preserve the existing React reader architecture while story content evolves independently.
-
----
-
-## Current Status
-
-**Proposal only. Nothing in this document overrides future canon decisions until explicitly approved.**
+The old Ari/Mina starter manuscript in `src/content/story.ts` is being replaced with the real Project G story while preserving the React reader architecture.
