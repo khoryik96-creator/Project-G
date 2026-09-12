@@ -36,8 +36,19 @@ This file records approved story rules that override older proposal language whe
 - All five possess National-Tier strength.
 - They are national protectors, not conventional villains.
 - Their conflict with Xu Kai comes from legitimate security concerns, incompatible methods, incomplete information, and personality clashes.
-- Jian Yue is Pillar #2.
-- Lu Chen is Pillar #4 and the intelligence/security specialist introduced during the capital arc.
+- **#1 Han Zhen** — Grand Marshal; strongest officially recognized martial artist in the country; disciplined, severe, military-minded, and initially deeply distrustful of Xu Kai.
+- **#2 Jian Yue** — Sword specialist and female lead; Xu Kai's assigned supervisor.
+- **#3** — currently deployed at the eastern frontier; full profile remains open. Chapter 14 ends with Pillar #3 demanding to meet Xu Kai.
+- **#4 Lu Chen** — intelligence/security specialist; dry, observant, and increasingly resigned to Xu Kai's methods.
+- **#5 Bai Ren** — elderly independent Pillar with a relaxed temperament and a sense of humor; introduced during the Hall of Five meeting.
+
+## Current Political Arc
+
+- A network informally referred to as **Blue Lantern** has been tracking the Five Pillars and measuring national response times when they are absent.
+- Blue Lantern is not a conventional villain organization. Its members believe overdependence on the Five has weakened provincial/local institutions.
+- Their original demonstrations were designed to expose that weakness without causing mass casualties.
+- Minister Cao exploited the network and attempted to turn a controlled White Bridge demonstration into a lethal incident so provincial reformers would appear to be terrorists.
+- The White Bridge plot was stopped without revealing any martial ability from Xu Kai.
 
 ## Power Reveal Rule
 
@@ -47,4 +58,10 @@ When the first undeniable reveal eventually happens, it must be a major story ev
 
 ## Current Manuscript
 
-The active reader manuscript is assembled through `src/content/story-v2.ts`. `src/content/story.ts` remains the earlier draft for comparison and should not be treated as current canon where it conflicts with this file or `story-v2.ts`.
+The active reader manuscript is assembled through `src/content/story-v3.ts`.
+
+- `src/content/story.ts` remains the original draft.
+- `src/content/story-v2.ts` contains the first concealment-rule revision through Chapter 7.
+- `src/content/story-v3.ts` extends the active canon through Chapter 14.
+
+Older versions remain for comparison and should not be treated as current canon where they conflict with this file or the newest manuscript.
