@@ -23,6 +23,14 @@ This file records approved story rules that override older proposal language whe
 - In Chapter 63 Jian Yue tests him privately and cannot meaningfully touch him even after escalating to serious National-Tier speed.
 - When she asks how he compares with Han Zhen, Xu Kai asks whether she truly wants the answer; she chooses not to hear it yet.
 - Black Rain proves that Xu Kai had already combined strategy and overwhelming martial power years earlier: he did not simply beat the threat physically; he dismantled a distributed assassination doctrine through misinformation, codes, logistics, and engineered doubt, using force only against the final Rain Guard.
+- The Empty Throne arc reveals that at **eighteen**, before he was legally Xu Kai, he was the faceless political operator remembered in Liangbei as **the Black Minister Kai** and by parts of the martial world as **the Undertaker**.
+- Xu Kai was never secretly evil. His terrifying reputation came from being willing to make decisions other powerful people refused to make, and from deliberately allowing both allies and enemies to believe he was colder and crueler than the truth.
+- He knowingly helped preserve the Black Minister myth because fear made fortresses surrender, sect elders negotiate, and corrupt governors comply without further bloodshed.
+- He also agreed to become a convenient historical villain after Liangbei's succession settlement because the new government needed legitimacy more than he needed public vindication.
+- Xu Kai's darkest revealed moral decision involved the **Eastern Banner Army**. Publishing proof that its royal claimant had ordered a refugee massacre prevented the army from entering southern capital districts containing roughly eighty-two thousand civilians, but shattered frontier command for one day. Raiders struck five villages during that gap and **eighty-three civilians died**.
+- If placed in exactly the same situation again, Xu Kai says he would still release the proof. He hates that answer and keeps a black notebook containing all eighty-three names and personal details he learned afterward.
+- This event becomes central to his later philosophy: he can still make terrible necessary choices, but he refuses to let human beings remain abstract costs in his own mind.
+- Modern Xu Kai's humor, irritation, mundane curiosity, and insistence on learning ordinary details about people are partly a conscious discipline against reducing everyone around him to leverage, probability, and acceptable loss.
 
 ### Jian Yue
 
@@ -32,13 +40,18 @@ This file records approved story rules that override older proposal language whe
 - For the first half of the story she sincerely believes Xu Kai needs physical protection.
 - Her repeated excuse for protecting, following, feeding, checking on, or otherwise caring about him is that he is a **state security concern**.
 - “Oi” begins as something she hates and becomes shared private language.
-- By the eastern frontier, Heshan, Revenue Ministry, Common Scale, and Black Rain arcs she clearly prioritizes Xu Kai personally while still resisting overt romantic language.
+- By the eastern frontier, Heshan, Revenue Ministry, Common Scale, Black Rain, and Empty Throne arcs she clearly prioritizes Xu Kai personally while still resisting overt romantic language.
 - Xu Kai using her actual name should remain rare enough to feel meaningful.
 - Jian Yue is the first Pillar to learn Xu Kai's martial secret.
 - She immediately chooses to protect that secret from the other Four Pillars.
 - Publicly she continues stepping in front of Xu Kai when danger appears, partly from habit and partly to preserve his cover.
 - Privately the relationship becomes more equal because she now knows he can protect her too.
 - During Black Rain she becomes increasingly competent at lying for him. By Chapter 80 she smoothly hides the word **UNMEASURABLE** on Gu Zhaolin's old capability assessment before Lu Chen can see it.
+- During the Empty Throne arc she learns that Xu Kai's past cannot be reduced to heroism or villainy.
+- She explicitly refuses to absolve the Eastern Banner decision, but also refuses to condemn Xu Kai as evil because others needed him to carry that role.
+- Her position is that **both truths matter**: eighty-three people died because of his decision, and tens of thousands likely lived because of the same decision.
+- She tells him he does not get to turn himself into the villain simply because that is easier for him to carry.
+- In Chapter 88 she jokingly calls him **“Oi, Undertaker.”** Xu Kai hates this immediately.
 
 ## Relationship Tone
 
@@ -52,6 +65,9 @@ This file records approved story rules that override older proposal language whe
 - In Chapter 62 Xu Kai tells her, “No, you do not,” when she says she hates him. Jian Yue answers, “Good,” before becoming embarrassed.
 - During Black Rain the trust reverses again in a healthier way: when Jian Yue chases Jiang Tai, Xu Kai tells her not to; she answers **“Trust me.”** He does.
 - Jian Yue later explains that Xu Kai asked her to trust him for months while she thought he was weak, so he can trust her for five minutes while she is not.
+- The Empty Throne arc deepens their emotional trust by forcing Jian Yue to confront choices she genuinely dislikes rather than giving Xu Kai easy moral absolution.
+- Xu Kai shows Jian Yue the black notebook containing the eighty-three frontier dead. This is one of the most private things he has shared with her.
+- Jian Yue becomes the first person to articulate that Xu Kai's old habit of making himself the villain may itself be another form of control and self-punishment.
 - Only Jian Yue currently understands Xu Kai's true martial absurdity.
 - Lin Shuying can remain a playful jealousy catalyst, not a serious love triangle unless explicitly changed.
 
@@ -157,12 +173,48 @@ This file records approved story rules that override older proposal language whe
 - Gu's surviving personnel assessment describes Xu Kai's principal danger not as capability but as his ability to make people question the order they were given.
 - Beneath censor ink, Jian Yue sees the older capability judgment: **UNMEASURABLE**. She hides it from Lu Chen.
 
+### Empty Throne / The Black Minister
+
+- The Empty Throne arc is intentionally short and character-focused, spanning Chapters 81–88.
+- Seven years earlier, Liangbei nearly collapsed after Emperor **Zhao Guang** died without a universally accepted successor.
+- Three royal claimants, the central army, northern garrisons, provincial governors, merchant interests, and the **Seven Great Sects** were pulled into the succession crisis.
+- At approximately eighteen years old, Kai became involved after discovering that major factions were knowingly tolerating atrocities and false-flag violence because exposing the truth would destabilize the succession.
+- Kai's response was not to choose a faction. He began exposing the actual hidden arrangements holding the factions together.
+- He revealed real evidence of double-funding, royal assassination orders, falsified sect feuds, sold disciples, hidden subsidies, and overlapping promises to commanders.
+- Kai rarely needed to fabricate evidence because the real corruption was already sufficient.
+- The Seven Great Sects and royal factions eventually agreed on one thing: **Kai had to be removed before succession negotiations could continue**.
+- Kai deliberately intensified this by leaking a memorandum claiming he intended to abolish the royal house and dissolve the Seven Sects.
+- He made himself the common enemy on purpose, buying **nineteen days** in which the major factions paused fighting one another.
+- During those nineteen days, Kai reorganized supply routes, negotiated surrender corridors, moved physicians, exposed sect accounts, split military loyalties, and forced negotiations that otherwise would not have occurred.
+- The public history later remembers him as **the Black Minister Kai, Enemy of Throne and Orthodoxy**.
+- Parts of the martial world called him **the Undertaker**, because once Kai became involved, organizations tended to discover that their political death had already been arranged.
+- **The Night of Ten Thousand Lanterns** was the largest direct attempt to kill him. Public memorials claim 1,312 deaths; sealed records show 241.
+- Before the confrontation, Kai spent eleven days arranging false arrival times, surrender corridors, medical staging, sabotaged ammunition logistics, bridge delays, and factional defections so most of the forces converging on him would never fight at the same time.
+- Four National-Tier masters, twenty-three grandmasters, and royal guards still reached him.
+- Kai offered the National-Tier masters three chances to leave.
+- When they attacked, he defeated them with terrifying ease and without named techniques: the first lost before drawing, the second broke his own arm striking Kai, Master **Du** remembers reaching for Kai and waking against the ceiling, and the fourth master fled.
+- Master Du concludes that the frightening truth was not merely that Kai could defeat them, but that he had spent six months preventing the disciples and civilians behind them from becoming collateral damage even though physically beating the leaders would have been easy.
+- Kai's answer to why he manipulated for months instead of simply fighting is: **“Because beating you was easy. Making sure your disciples still had homes afterward was difficult.”**
+- The most morally difficult revealed decision was the **Eastern Banner Army** crisis. Publishing proof of the claimant's refugee massacre prevented a likely purge of roughly eighty-two thousand capital civilians, but broke frontier command until subsidized sects could be forced to take over defense.
+- Those sects arrived one day late. Raiders killed eighty-three civilians in five villages.
+- Xu Kai does not claim the decision was clean or morally good. If every condition were exactly the same, he says he would make it again.
+- He later learned the names and personal details of all eighty-three dead and keeps them in a black notebook so he cannot remember them only as a strategic cost.
+- **Empress Zhao Mei** survived the succession crisis and ultimately took the throne under a settlement that redistributed power and constrained both royal and sect military authority.
+- The new Liangbei government needed a stable public narrative after the crisis. Zhao Mei and Kai jointly signed the decree establishing a historical commission that blamed the faceless Black Minister for many of the era's worst excesses.
+- Xu Kai knowingly helped build the villainous version of himself because the new government needed legitimacy, and because fear of the Black Minister made future sects, governors, and military factions negotiate before escalating.
+- Chapter 87 reveals that Zhao Mei still uses the Black Minister myth instrumentally. She secretly hides three vulnerable witnesses after the Empty Throne archive is reopened and uses the old message **“THE BOARD REMEMBERS YOU”** to make them comply quickly.
+- Current sect hardliners attempted to use the archive reopening to block the Wuyuan–Liangbei treaty unless Liangbei formally charged the Black Minister as a war criminal.
+- The treaty proceeds without resolving the Black Minister as hero or villain. The final historical clause states that the Empty Throne remains subject to historical review.
+- The arc's core character revelation is that old Kai could walk into a room and reduce people to motives, leverage, probabilities, and acceptable loss — and that this worked frighteningly well.
+- Modern Xu Kai deliberately cultivates the opposite habit: learning names, food preferences, absurd habits, and irritating human details because **people are harder to sacrifice once they stop feeling like pieces**.
+
 ## Martial Reveal Rules Going Forward
 
 - The “no hint” phase ended in Chapter 58.
 - The public still does **not** know Xu Kai is martial at all.
 - Han Zhen, Yan Shuo, Lu Chen, and Bai Ren do **not** know his true strength.
 - Jian Yue knows he is vastly stronger than he pretended but still does not know his exact ceiling.
+- Liangbei's sealed Empty Throne witnesses know that the old faceless Kai possessed overwhelming martial ability, but the public historical record focuses on the Black Minister's political manipulation rather than verified martial identity.
 - Xu Kai should continue preferring wit. Martial strength must not become the default solution simply because the reader now knows it exists.
 - When Xu Kai uses force, it should remain unusually efficient, understated, and often nameless rather than becoming conventional technique spam.
 - His exact rank remains undefined.
@@ -170,14 +222,15 @@ This file records approved story rules that override older proposal language whe
 
 ## Current Hook
 
-- Chapter 80 ends after Black Rain is permanently terminated.
-- Liangbei sends a gold-edged diplomatic request asking specifically for **Imperial Examiner Xu Kai** to handle emergency treaty negotiations.
-- Jian Yue insists that an already-promised dinner is also a matter of state.
-- This opens a diplomacy-focused arc rather than another immediate hidden-martial conspiracy.
+- Chapter 88 completes the short Empty Throne / Black Minister arc.
+- Wuyuan and Liangbei sign new joint border-verification, emergency-trade, and military-order dispute mechanisms.
+- The Black Minister remains historically disputed rather than formally exonerated or condemned.
+- Jian Yue now understands why Xu Kai let the world think he was monstrous and why he later chose to become much more deliberately human in the way he interacts with people.
+- Xu Kai and Jian Yue leave Liangbei with a deeper relationship but no overt confession.
 
 ## Current Manuscript
 
-The active reader manuscript is assembled through `src/content/story-v13.ts` and currently runs through **Chapter 80**.
+The active reader manuscript is assembled through `src/content/story-v14.ts` and currently runs through **Chapter 88**.
 
 - `src/content/story.ts` — original draft.
 - `src/content/story-v2.ts` — concealment revision through Chapter 7.
@@ -192,5 +245,6 @@ The active reader manuscript is assembled through `src/content/story-v13.ts` and
 - `src/content/story-v11.ts` — Chapters 55–64.
 - `src/content/story-v12.ts` — Chapters 65–72 and begins Black Rain.
 - `src/content/story-v13.ts` — Chapters 73–80 and completes Black Rain.
+- `src/content/story-v14.ts` — Chapters 81–88 and completes the Empty Throne / Black Minister arc.
 
 Older versions remain for comparison and should not be treated as current canon where they conflict with this file or the newest manuscript.
