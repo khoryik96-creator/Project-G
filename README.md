@@ -1,6 +1,6 @@
 # Project G
 
-> **Live reader:** https://khoryik96-creator.github.io/Project-G/
+> **Live reader / mobile app:** https://khoryik96-creator.github.io/Project-G/
 
 A mobile-first light/short novel reader built with **React 19 + TypeScript + ESLint + Vite**.
 
@@ -16,10 +16,21 @@ The architecture is intentionally similar to the Lucy / Despicable Heretic reade
 - Continue Reading persisted in local storage
 - Night / paper reading themes
 - Reader font-size and text-width controls
+- Installable Progressive Web App (PWA)
+- Home-screen / standalone app launch on supported mobile browsers
+- Offline caching for previously loaded app resources and chapters
 - React + TypeScript strict mode
 - ESLint flat config
 - GitHub Actions quality gate
 - GitHub Pages deployment workflow
+
+## Install on mobile
+
+Open the live reader on your phone. On supported Android browsers, an **Install** button appears in the Project G mobile header once the browser marks the app as installable. Tap it to add Project G to your home screen and launch it in standalone app mode.
+
+If the in-app Install button is not shown, use the browser menu and choose **Install app** or **Add to Home screen**. On iPhone/iPad, open the site in Safari, use **Share**, then **Add to Home Screen**.
+
+Bookmarks, Continue Reading, and reading preferences remain stored on the device/browser profile used to install the app.
 
 ## Local development
 
@@ -40,9 +51,9 @@ Production build:
 npm run build
 ```
 
-## Add the real novel
+## Story content
 
-Replace the starter manuscript in `src/content/story.ts`. Keep UI code free of canon-specific facts. For a large novel, follow `ARCHITECTURE.md` and split prose by season with generated lightweight metadata.
+The active manuscript is assembled through the newest `src/content/story-v*.ts` file referenced by `src/domain/storyIndex.ts`. `STORY_CANON.md` is the canon source of truth when older manuscript revisions conflict.
 
 ## GitHub Pages
 
