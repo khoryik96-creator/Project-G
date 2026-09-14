@@ -16,12 +16,19 @@ import {
 import { allChapters, chapterMap, getChapterNeighbors } from '../domain/storyIndex';
 import type { ReaderPreferences } from '../domain/types';
 
+type InstallPromptEvent = Event & {
+  prompt: () => Promise<void>;
+  userChoice: Promise<{ outcome: 'accepted' | 'dismissed'; platform: string }>;
+};
+
 export function App() {
   const [route, setRoute] = useState<Route>(() => readRoute());
   const [bookmarks, setBookmarks] = useState<string[]>(() => loadBookmarks());
   const [lastRead, setLastRead] = useState<string | null>(() => loadLastRead());
   const [preferences, setPreferences] = useState<ReaderPreferences>(() => loadPreferences() ?? defaultPreferences);
   const [query, setQuery] = useState('');
+  const [installPrompt, setInstallPrompt] = useState<InstallPromptEvent | null>(null);
+  const [isInstalled, setIsInstalled] = useState(() => window.matchMedia('(display-mode: standalone)').matches);
 
   useEffect(() => {
     const onHashChange = () => {
@@ -31,6 +38,26 @@ export function App() {
 
     window.addEventListener('hashchange', onHashChange);
     return () => window.removeEventListener('hashchange', onHashChange);
+  }, []);
+
+  useEffect(() => {
+    const onBeforeInstall = (event: Event) => {
+      event.preventDefault();
+      setInstallPrompt(event as InstallPromptEvent);
+    };
+
+    const onInstalled = () => {
+      setInstallPrompt(null);
+      setIsInstalled(true);
+    };
+
+    window.addEventListener('beforeinstallprompt', onBeforeInstall);
+    window.addEventListener('appinstalled', onInstalled);
+
+    return () => {
+      window.removeEventListener('beforeinstallprompt', onBeforeInstall);
+      window.removeEventListener('appinstalled', onInstalled);
+    };
   }, []);
 
   useEffect(() => {
@@ -50,6 +77,7 @@ export function App() {
     () => bookmarks.map((id) => chapterMap.get(id)).filter((chapter) => chapter !== undefined),
     [bookmarks],
   );
+  const canInstall = Boolean(installPrompt) && !isInstalled;
 
   function navigate(nextRoute: Route) {
     const nextHash = routeHash(nextRoute);
@@ -63,6 +91,15 @@ export function App() {
 
   function openChapter(chapterId: string) {
     navigate({ view: 'reader', chapterId });
+  }
+
+  async function installApp() {
+    if (!installPrompt) return;
+    await installPrompt.prompt();
+    const choice = await installPrompt.userChoice;
+    if (choice.outcome === 'accepted') {
+      setInstallPrompt(null);
+    }
   }
 
   function toggleBookmark(chapterId: string) {
@@ -120,10 +157,15 @@ export function App() {
           <button className={activeView === 'bookmarks' ? 'is-active' : undefined} type="button" onClick={() => navigate({ view: 'bookmarks' })}>
             <span>02</span><strong>Bookmarks</strong><em>{bookmarks.length}</em>
           </button>
+          {canInstall ? (
+            <button type="button" onClick={() => void installApp()}>
+              <span>↧</span><strong>Install app</strong>
+            </button>
+          ) : null}
         </nav>
         <div className="sidebar-note">
           <span className="status-dot" />
-          <p>{siteConfig.description}</p>
+          <p>{isInstalled ? 'Installed app mode. Your reading progress stays on this device.' : siteConfig.description}</p>
         </div>
       </aside>
 
@@ -132,9 +174,14 @@ export function App() {
           <button className="mobile-brand" type="button" onClick={() => navigate({ view: 'library' })}>
             <span>{siteConfig.mark}</span><strong>{siteConfig.title}</strong>
           </button>
-          {continueChapter ? (
-            <button className="mobile-continue" type="button" onClick={() => openChapter(continueChapter.id)}>Continue</button>
-          ) : null}
+          <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+            {canInstall ? (
+              <button className="mobile-continue" type="button" onClick={() => void installApp()}>Install</button>
+            ) : null}
+            {continueChapter ? (
+              <button className="mobile-continue" type="button" onClick={() => openChapter(continueChapter.id)}>Continue</button>
+            ) : null}
+          </div>
         </header>
 
         <main className="content">{page}</main>
