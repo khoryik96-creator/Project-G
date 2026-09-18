@@ -69,7 +69,15 @@ This file records approved story rules that override older proposal language whe
 - Xu Kai shows Jian Yue the black notebook containing the eighty-three frontier dead. This is one of the most private things he has shared with her.
 - Jian Yue becomes the first person to articulate that Xu Kai's old habit of making himself the villain may itself be another form of control and self-punishment.
 - Only Jian Yue currently understands Xu Kai's true martial absurdity.
-- Lin Shuying can remain a playful jealousy catalyst, not a serious love triangle unless explicitly changed.
+- Chapters 89–100 deliberately move the romance from slow-burn ambiguity into an actual relationship.
+- A politically advantageous proposal from **House Pei** asks Jian Yue to consider **Pei Zhen**, a competent river-defense commander. The proposal is voluntary; Jian Yue rejects it because she does not want that future.
+- Xu Kai's jealousy is played for comedy but also forces him to stop hiding behind strategic analysis. He investigates Pei Zhen's background down to his favorite tea before admitting the idea of someone else arranging Jian Yue's future bothers him.
+- Jian Yue forces Xu Kai to distinguish between what is good for the state and what **he personally wants**. When asked whether she should accept Pei Zhen because the match would help reform politics, Xu Kai answers **“No”** because he does not want her to.
+- Chapter 97 ends the original supervision order. Jian Yue explicitly says she is tired of lying about why she stays near Xu Kai, while making clear she intends to keep staying near him anyway.
+- In Chapter 98, Xu Kai finally says **“I love you, Jian Yue.”** Jian Yue reciprocates, and they share their first kiss.
+- After the confession, the relationship must remain recognizably Xu Kai and Jian Yue: teasing, arguments, practical care, mutual trust, and occasional emotional awkwardness rather than becoming generically sweet.
+- Their relationship is real from Chapter 98 onward, though they do not immediately turn it into a public political announcement.
+- Lin Shuying remains a playful jealousy catalyst and shameless observer, not a serious love triangle.
 
 ## The Five Pillars
 
@@ -208,6 +216,23 @@ This file records approved story rules that override older proposal language whe
 - The arc's core character revelation is that old Kai could walk into a room and reduce people to motives, leverage, probabilities, and acceptable loss — and that this worked frighteningly well.
 - Modern Xu Kai deliberately cultivates the opposite habit: learning names, food preferences, absurd habits, and irritating human details because **people are harder to sacrifice once they stop feeling like pieces**.
 
+### No More Supervision / Romance Arc
+
+- Chapters **89–100** form a romance-forward breather arc after the darker Empty Throne material.
+- Xu Kai and Jian Yue return to Wuyuan and discover that their supposedly separate homes already function like one shared domestic space.
+- House Pei submits a voluntary political marriage proposal pairing Jian Yue with **Pei Zhen**, an unusually competent and decent river-defense commander whose family believes the match would reassure old military houses after recent reforms.
+- Pei Zhen is not a villain or romantic rival caricature. He quickly realizes Jian Yue has already chosen emotionally and tells Xu Kai that the two people involved are simply slow to notice.
+- Xu Kai becomes visibly jealous, including conducting an absurdly thorough background investigation into Pei Zhen, but refuses to sabotage or smear him.
+- Wuyuan's treaty celebrations with Liangbei include the **Festival of Ten Thousand Lamps**, where Xu Kai and Jian Yue release paired lanterns that drift together and later share a formal diplomatic dance.
+- The political proposal creates the arc's central emotional conflict: Xu Kai can articulate every strategic reason Jian Yue marrying Pei Zhen would help the state, but Jian Yue refuses to let him treat either of them as state resources.
+- Xu Kai finally admits he personally does **not** want her to accept the proposal.
+- In Chapter 96, when Jian Yue asks **“What am I to you?”**, Xu Kai admits she is the first person he looks for when entering a room and the person he wants beside him when things go wrong or right.
+- In Chapter 97 Jian Yue formally terminates the personal supervision order created after Qingshi, telling the Hall of Five she is tired of using supervision as an excuse for why she remains with Xu Kai.
+- In Chapter 98 they confess love directly. Xu Kai uses Jian Yue's actual name in the confession, preserving its emotional weight. Jian Yue reciprocates and initiates their first kiss; Xu Kai initiates the second.
+- The other Pillars identify the relationship almost immediately in Chapter 99. Bai Ren and others had multiple betting pools; Yan Shuo sends a frontier message reading **“ABOUT TIME. OWE ME TWENTY.”**
+- Chapter 100 is their first deliberate date. It stays deliberately ordinary: noodles, the market, cabbage, Auntie Sun, and a quiet river walk.
+- The arc ends with them agreeing that what they are is simply **“us.”** Jian Yue asks him to stay; Xu Kai answers **“That was the plan.”**
+
 ## Martial Reveal Rules Going Forward
 
 - The “no hint” phase ended in Chapter 58.
@@ -222,15 +247,17 @@ This file records approved story rules that override older proposal language whe
 
 ## Current Hook
 
-- Chapter 88 completes the short Empty Throne / Black Minister arc.
-- Wuyuan and Liangbei sign new joint border-verification, emergency-trade, and military-order dispute mechanisms.
-- The Black Minister remains historically disputed rather than formally exonerated or condemned.
-- Jian Yue now understands why Xu Kai let the world think he was monstrous and why he later chose to become much more deliberately human in the way he interacts with people.
-- Xu Kai and Jian Yue leave Liangbei with a deeper relationship but no overt confession.
+- Chapter 100 completes the **No More Supervision** romance arc.
+- Xu Kai and Jian Yue are now explicitly together after confessing in Chapter 98.
+- The original Qingshi supervision order has been formally terminated; Jian Yue continues staying near Xu Kai by personal choice rather than official excuse.
+- The relationship is not yet a public political institution or marriage arrangement. They are simply choosing each other and figuring out what that means in daily life.
+- Xu Kai remains the Imperial Examiner and public non-martial strategist. Jian Yue remains National Tier #2 and an active Pillar.
+- Only Jian Yue still knows the truth of Xu Kai's overwhelming martial ability.
+- Future arcs should keep the romance active in the foreground through shared routines, jealousy, arguments, physical affection, and mutual protection rather than resetting them to pre-confession ambiguity.
 
 ## Current Manuscript
 
-The active reader manuscript is assembled through `src/content/story-v14.ts` and currently runs through **Chapter 88**.
+The active reader manuscript is assembled through `src/content/story-v15.ts` and currently runs through **Chapter 100**.
 
 - `src/content/story.ts` — original draft.
 - `src/content/story-v2.ts` — concealment revision through Chapter 7.
@@ -246,5 +273,6 @@ The active reader manuscript is assembled through `src/content/story-v14.ts` and
 - `src/content/story-v12.ts` — Chapters 65–72 and begins Black Rain.
 - `src/content/story-v13.ts` — Chapters 73–80 and completes Black Rain.
 - `src/content/story-v14.ts` — Chapters 81–88 and completes the Empty Throne / Black Minister arc.
+- `src/content/story-v15.ts` — Chapters 89–100 and completes the No More Supervision romance arc.
 
 Older versions remain for comparison and should not be treated as current canon where they conflict with this file or the newest manuscript.
