@@ -267,6 +267,41 @@ This file records approved story rules that override older proposal language whe
 - The arc re-establishes that Xu Kai's intelligence, restraint, logistics sense, and political reading remain more dangerous than brute force even after readers know he is overwhelmingly powerful.
 - Jian Yue privately observes that he could have fought the National Tiers and simply chose not to. Xu Kai admits he considered it for about three seconds, then remembered the army would still exist afterward.
 
+### Summit of Seven Banners / Lanting Intervention Protocol
+
+- Chapters **117–130** form a closed-summit political thriller and murder mystery.
+- Seven states attend the **Summit of Seven Banners** in neutral **Lanting Free City**: Wuyuan, Liangbei, Qinghe, Tianluo, Nanzhou, Yuezhou, and Beiyuan.
+- The formal agenda concerns post-Qinghe stability, National-Tier deployment rules, emergency arbitration, and military finance. The real issue is how the region should respond to Xu Kai's growing cross-border strategic influence.
+- Major summit figures include Liangbei's **Lin Shuying**, Qinghe's **Crown Princess Shen Lian**, Tianluo's **Grand Councillor Wei Jinhai** and **Abbess Qiu Wen**, Nanzhou intelligence chief **Wen Suyin**, Yuezhou's young National-Tier **Prince Ji Cheng**, and elderly Beiyuan ruler **King Pei Rong**, who remembers the Empty Throne era.
+- Wei Jinhai is murdered inside the sealed summit compound. The body is found in Archive Room Three with the message **“THE BOARD HAS ONE PIECE TOO MANY.”**
+- The murder is designed to resemble Xu Kai's historical methods. No super-assassin is required; the killer manipulates guard rotations, meal routing, gift-table placement, a fake corridor oil spill, staff access, and a six-minute procedural gap.
+- Xu Kai reconstructs the murder with ordinary objects and concludes that the real goal is not merely to frame him, but to remind every government what a Xu Kai-style operation looks like.
+- A preexisting draft called the **Strategic Actor Accord** is discovered. It proposes movement disclosure, neutral observers, restrictions on foreign advisory work, archive access limits, and sanctions against states that employ unranked strategic actors to alter other countries.
+- The summit openly acknowledges that fear of Xu Kai is not irrational. Xu Kai agrees that his past actions create a legitimate governance problem, but rejects legal custody over one person as the solution.
+- A cross-border informal policy network called the **Balance Secretariat** had already formed before the summit to discuss this issue. Its members included diplomats, intelligence officers, military planners, economists, and legal experts from multiple states.
+- Wei Jinhai helped found the Balance Secretariat but opposed using coercion or violence. He believed containment imposed through fear would validate Xu Kai's criticism of weak institutions.
+- A hardline faction later emerges inside the network. **Wen Suyin** gives it the name **Red Margin** after recurring red-pencil annotations in its newer correspondence.
+- **Assistant Archivist Mao Lin**, an ordinary Lanting staff member with no martial significance, physically kills Wei using archive silk cord after coordinated procedural diversions create the six-minute window.
+- Mao Lin believes one death may prevent future wars and initially thinks the wider policy network approved stronger pressure. Xu Kai realizes Mao Lin was compartmentalized and manipulated by a smaller hardline circle.
+- Red Margin enters Jian Yue's room using a protocol master key and leaves a black queen with the message **“BREAK THE SHIELD. WATCH THE HAND MOVE.”**
+- A joint pre-summit intelligence brief explicitly labels Jian Yue Xu Kai's **“primary emotional leverage.”**
+- Jian Yue and Xu Kai respond playfully but seriously: each admits the other is a weakness in the sense that they matter enough to change what the other fears losing.
+- Red Margin later frames Jian Yue for assaulting a Lanting guard, expecting Xu Kai to break summit procedure to protect her.
+- Jian Yue tells Xu Kai **“Trust me.”** He does. She accepts temporary detention, and Xu Kai refuses to give the conspirators the irrational reaction they are trying to manufacture.
+- The planted evidence is exposed through mundane inconsistencies: the guard's boots contain the wrong courtyard dust, the sword cut does not match Jian Yue's draw angle, the planted sash cloth lacks a repair she wears on the real sash, and witnesses describe the wrong hairstyle.
+- Xu Kai maps the hardline network by sending suspected Balance Secretariat contacts twelve slightly different procedural proposals and tracing which unique wording later reappears in private objections.
+- He also sends a false notice to suspected Red Margin members claiming Mao Lin hid a second contact ledger beneath the west dock. Their attempts to recover a nonexistent ledger expose their knowledge of Mao Lin's role.
+- The hardline conspiracy includes officials from several states but is organized at the summit by **Deputy Convenor Ren Tao**, Lanting's second-highest summit official and one of the architects of the compound's protocol system.
+- Ren Tao's stated fear is institutional: governments do not know how to constrain a person who can affect wars and political systems without fitting traditional military or sovereign categories.
+- Xu Kai's reply is that Ren Tao murdered a man because he decided voluntary choice itself was too dangerous to permit.
+- Prince Ji Cheng publicly argues that Xu Kai genuinely needs rules. Their debate remains unresolved in principle: Ji Cheng is not treated as foolish, and Xu Kai agrees that no system should depend on one extraordinary person.
+- Xu Kai's key distinction is that institutions should be built to remain functional when powerful individuals refuse to cooperate, rather than attempting to own or administratively imprison those individuals.
+- After Red Margin is exposed, King Pei Rong asks Xu Kai what guarantee the world has that he will never turn his methods against them.
+- Xu Kai answers **“None.”**
+- Rather than sign the Strategic Actor Accord, Xu Kai proposes rules governing **states that invite outside strategic intervention**: written host invitations, explicit scope, duration, revocation authority, automatic sunset clauses, transparent delegated command authority, and neutral review of the mandate rather than tracking the individual.
+- This becomes the **Lanting Intervention Protocol**. Five states sign immediately; Tianluo and Yuezhou reserve final ratification but accept the framework in principle.
+- The arc ends with the **Grand Martial Assembly** inviting Jian Yue as Wuyuan's National Tier #2 and Xu Kai as her **“civilian companion,”** creating the next hook.
+
 ## Martial Reveal Rules Going Forward
 
 - The “no hint” phase ended in Chapter 58.
@@ -281,18 +316,19 @@ This file records approved story rules that override older proposal language whe
 
 ## Current Hook
 
-- Chapter 116 completes the **Qinghe Defense / War With No Front** arc.
-- Tianluo has withdrawn to the prewar border without suffering a humiliating battlefield collapse; all four deployed National-Tier commanders remain alive and undefeated in personal combat.
-- Qinghe survives as an independent kingdom, and Crown Princess Shen Lian now owes Xu Kai a politically significant debt.
-- Marshal Duan Yexin leaves with genuine respect for Xu Kai and warns that if Tianluo returns, it will plan specifically for him.
-- Xu Kai's public image has escalated again: neighboring courts now have direct evidence that the supposedly non-martial Wuyuan civilian can stop a great-power invasion without commanding a National-Tier force.
-- Xu Kai still does not publicly reveal martial ability, and the other four Wuyuan Pillars still do not know his true ceiling.
-- Xu Kai and Jian Yue remain openly together among close allies. Their romance continues during crises rather than being paused by them.
-- The next arc should not immediately repeat another invasion; the wider world now has a reason to react to the fact that one civilian strategist has become strategically important across multiple nations.
+- Chapter 130 completes the **Summit of Seven Banners / Lanting Intervention Protocol** arc.
+- Red Margin's murder conspiracy is exposed and its central summit organizer, Deputy Convenor Ren Tao, is arrested.
+- The wider Balance Secretariat is not treated as a criminal organization by default; many of its members raised legitimate institutional questions and never approved violence.
+- The Lanting Intervention Protocol creates a regional framework for outside strategic advisers without placing Xu Kai personally under international custody.
+- Xu Kai's international reputation is now even more complicated: states openly recognize him as a strategic actor whose influence can rival formal military institutions despite his public non-martial status.
+- Jian Yue and Xu Kai remain openly together among close allies, and their relationship continues to deepen through trust rather than reverting to pre-confession ambiguity.
+- Only Jian Yue still knows Xu Kai's actual martial absurdity.
+- The immediate next hook is the **Grand Martial Assembly**, which invites Jian Yue as National Tier #2 and Xu Kai, insultingly, as her **“civilian companion.”**
+- A martial-assembly arc should provide a tonal shift after the summit mystery: public martial spectacle, sect politics, rankings, rival National Tiers, humor, and the danger of Xu Kai being surrounded by people who assume he is the least threatening person present.
 
 ## Current Manuscript
 
-The active reader manuscript is assembled through `src/content/story-v17.ts` and currently runs through **Chapter 116**.
+The active reader manuscript is assembled through `src/content/story-v19.ts` and currently runs through **Chapter 130**.
 
 - `src/content/story.ts` — original draft.
 - `src/content/story-v2.ts` — concealment revision through Chapter 7.
@@ -311,5 +347,7 @@ The active reader manuscript is assembled through `src/content/story-v17.ts` and
 - `src/content/story-v15.ts` — Chapters 89–100 and completes the No More Supervision romance arc.
 - `src/content/story-v16.ts` — Chapters 101–108 and begins the Qinghe Defense / War With No Front arc.
 - `src/content/story-v17.ts` — Chapters 109–116 and completes the Qinghe Defense / War With No Front arc.
+- `src/content/story-v18.ts` — Chapters 117–123 and begins the Summit of Seven Banners mystery.
+- `src/content/story-v19.ts` — Chapters 124–130 and completes the Summit of Seven Banners / Lanting Intervention Protocol arc.
 
 Older versions remain for comparison and should not be treated as current canon where they conflict with this file or the newest manuscript.
