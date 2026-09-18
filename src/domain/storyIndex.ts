@@ -1,4 +1,4 @@
-import { seasons } from '../content/story-v14';
+import { seasons } from '../content/story-v15';
 
 export { seasons };
 
