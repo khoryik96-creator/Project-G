@@ -78,6 +78,10 @@ This file records approved story rules that override older proposal language whe
 - After the confession, the relationship must remain recognizably Xu Kai and Jian Yue: teasing, arguments, practical care, mutual trust, and occasional emotional awkwardness rather than becoming generically sweet.
 - Their relationship is real from Chapter 98 onward, though they do not immediately turn it into a public political announcement.
 - Lin Shuying remains a playful jealousy catalyst and shameless observer, not a serious love triangle.
+- After Chapter 100, the romance stays active during high-stakes arcs instead of disappearing whenever the plot becomes serious.
+- During the Qinghe defense, Jian Yue is openly affectionate in private and occasionally in front of allies: she kisses Xu Kai's cheek after the Grey Pine deception and later kisses him across the war table after he jokes about incomplete romantic disclosure.
+- Jian Yue continues using practical care as affection, especially policing Xu Kai's meals and sleep during campaigns.
+- Their relationship remains playful rather than saccharine; war briefings can still contain teasing, collar-straightening, threats over skipped meals, and the shared joke that Xu Kai is publicly a helpless civilian.
 
 ## The Five Pillars
 
@@ -233,6 +237,36 @@ This file records approved story rules that override older proposal language whe
 - Chapter 100 is their first deliberate date. It stays deliberately ordinary: noodles, the market, cabbage, Auntie Sun, and a quiet river walk.
 - The arc ends with them agreeing that what they are is simply **“us.”** Jian Yue asks him to stay; Xu Kai answers **“That was the plan.”**
 
+### Qinghe Defense / The War With No Front
+
+- Chapters **101–116** form a fast-paced war-defense arc.
+- The small neighboring **Kingdom of Qinghe** faces invasion by the much larger **Tianluo Empire**.
+- Tianluo commits roughly **180,000 troops** to the campaign under four National-Tier commanders: **Marshal Duan Yexin**, siege specialist **Mo Jian**, cavalry commander **He Yao**, and imperial sect commander **Qiu Wen**. At least two additional National-Tier commanders remain in imperial reserve beyond the frontier.
+- Qinghe has only one National-Tier defender, **General Luo Shun**, who is wounded early in the invasion.
+- Qinghe deliberately asks Wuyuan for **Xu Kai rather than a Pillar army**, because deploying Wuyuan's Five would risk escalating the invasion into a great-power war.
+- **Crown Princess Shen Lian** serves as Qinghe's principal political authority during the defense and gives Xu Kai broad operational control over roads, grain, transport, and information.
+- Xu Kai rejects the conventional objective of defeating Tianluo in battle. His strategy is to make the invasion too hungry, slow, expensive, uncertain, and politically embarrassing to continue.
+- He prepares **Yancheng**, Qinghe's capital, to be strategically expendable by dispersing treasury reserves, archives, hospitals, civilian evacuation routes, and military command rather than concentrating the state behind one wall.
+- Xu Kai attacks cavalry logistics without scorched-earth tactics: Qinghe purchases and relocates horseshoes, nails, fodder, smithing tools, salt, ferry capacity, and other military-use goods while still allowing ordinary civilian trade to continue.
+- He identifies Tianluo's true forward logistics hub at the **Nao River** not by grain volume but through courier traffic, veterinary stock, replacement bowstrings, officer rations, field bakers, and bridge engineers.
+- Rather than destroying that hub immediately, Xu Kai watches it to map Tianluo's command network.
+- Marshal Duan Yexin adapts intelligently and begins targeting Xu Kai himself. Xu Kai uses **Grey Pine Fort** as a false relocation, complete with his desk, tea, clerks, goats, and a note telling the strike team to sign the visitor register.
+- The core strategic principle of the arc is **“Do not fight the National Tiers.”** Xu Kai disperses Qinghe's army into eight mobile commands, removes fixed defensive lines, avoids decisive terrain, and decentralizes emergency authority so the enemy's strongest individuals have no single strategically decisive target.
+- At **White Reed Plain**, Tianluo concentrates roughly forty-nine thousand troops and all four National-Tier commanders for a decisive engagement. Xu Kai sends no army. While Tianluo waits on an empty battlefield, Qinghe retakes supply towns, courier stations, bridges, and field bakeries elsewhere.
+- Duan responds correctly by spreading the four National Tiers across the supply network. This is exactly the trap Xu Kai wants: He Yao ends up protecting cavalry supply, Mo Jian protects flour and siege logistics, Qiu Wen protects river engineers, and Duan personally guards grain routes.
+- Qinghe stops attacking routes whenever a National Tier arrives and reopens pressure elsewhere, turning the four strongest people in the invasion into expensive plugs in a system with too many leaks.
+- Xu Kai further slows Tianluo by sending **authenticated, genuine imperial documents** to commanders who were never meant to compare them: overlapping postwar promises, planned scapegoating, audits, and conflicting rewards. The commanders do not betray one another, but they begin verifying orders, which costs time and certainty.
+- Tianluo's emperor personally orders Xu Kai to leave Qinghe within forty-eight hours. Xu Kai answers indirectly by publishing verified campaign logistics and financial data to neutral trading cities, undermining Tianluo's short-term war financing and raising the cost of military notes.
+- Xu Kai never forges Tianluo's financial weakness; he exposes the invasion's actual distances advanced, depot losses, cart replacement rates, fodder costs, and absence of expected Qinghe customs revenue.
+- By the fifteenth day, Duan requests negotiations. Xu Kai identifies what the marshal needs politically — something he can take home and describe as a result — without conceding territory or guilt.
+- Xu Kai's counteroffer restores the prewar border, creates a joint tribunal, sells grain to the withdrawing imperial army at market price to prevent looting, and famously includes a **road-and-infrastructure invoice** for damage caused by the invasion.
+- Tianluo withdraws on the eighteenth day with all four National-Tier commanders still undefeated in personal combat.
+- Qinghe deliberately does not pursue the retreating army; Xu Kai prioritizes ending the war over turning withdrawal into humiliation or revenge.
+- In the final conversation, Duan points out that Xu Kai never fought them. Xu Kai answers: **“That was the idea.”**
+- When Duan asks whether four National Tiers frightened him, Xu Kai says he was more afraid of what **180,000 soldiers** could do if the war lasted long enough.
+- The arc re-establishes that Xu Kai's intelligence, restraint, logistics sense, and political reading remain more dangerous than brute force even after readers know he is overwhelmingly powerful.
+- Jian Yue privately observes that he could have fought the National Tiers and simply chose not to. Xu Kai admits he considered it for about three seconds, then remembered the army would still exist afterward.
+
 ## Martial Reveal Rules Going Forward
 
 - The “no hint” phase ended in Chapter 58.
@@ -247,17 +281,18 @@ This file records approved story rules that override older proposal language whe
 
 ## Current Hook
 
-- Chapter 100 completes the **No More Supervision** romance arc.
-- Xu Kai and Jian Yue are now explicitly together after confessing in Chapter 98.
-- The original Qingshi supervision order has been formally terminated; Jian Yue continues staying near Xu Kai by personal choice rather than official excuse.
-- The relationship is not yet a public political institution or marriage arrangement. They are simply choosing each other and figuring out what that means in daily life.
-- Xu Kai remains the Imperial Examiner and public non-martial strategist. Jian Yue remains National Tier #2 and an active Pillar.
-- Only Jian Yue still knows the truth of Xu Kai's overwhelming martial ability.
-- Future arcs should keep the romance active in the foreground through shared routines, jealousy, arguments, physical affection, and mutual protection rather than resetting them to pre-confession ambiguity.
+- Chapter 116 completes the **Qinghe Defense / War With No Front** arc.
+- Tianluo has withdrawn to the prewar border without suffering a humiliating battlefield collapse; all four deployed National-Tier commanders remain alive and undefeated in personal combat.
+- Qinghe survives as an independent kingdom, and Crown Princess Shen Lian now owes Xu Kai a politically significant debt.
+- Marshal Duan Yexin leaves with genuine respect for Xu Kai and warns that if Tianluo returns, it will plan specifically for him.
+- Xu Kai's public image has escalated again: neighboring courts now have direct evidence that the supposedly non-martial Wuyuan civilian can stop a great-power invasion without commanding a National-Tier force.
+- Xu Kai still does not publicly reveal martial ability, and the other four Wuyuan Pillars still do not know his true ceiling.
+- Xu Kai and Jian Yue remain openly together among close allies. Their romance continues during crises rather than being paused by them.
+- The next arc should not immediately repeat another invasion; the wider world now has a reason to react to the fact that one civilian strategist has become strategically important across multiple nations.
 
 ## Current Manuscript
 
-The active reader manuscript is assembled through `src/content/story-v15.ts` and currently runs through **Chapter 100**.
+The active reader manuscript is assembled through `src/content/story-v17.ts` and currently runs through **Chapter 116**.
 
 - `src/content/story.ts` — original draft.
 - `src/content/story-v2.ts` — concealment revision through Chapter 7.
@@ -274,5 +309,7 @@ The active reader manuscript is assembled through `src/content/story-v15.ts` and
 - `src/content/story-v13.ts` — Chapters 73–80 and completes Black Rain.
 - `src/content/story-v14.ts` — Chapters 81–88 and completes the Empty Throne / Black Minister arc.
 - `src/content/story-v15.ts` — Chapters 89–100 and completes the No More Supervision romance arc.
+- `src/content/story-v16.ts` — Chapters 101–108 and begins the Qinghe Defense / War With No Front arc.
+- `src/content/story-v17.ts` — Chapters 109–116 and completes the Qinghe Defense / War With No Front arc.
 
 Older versions remain for comparison and should not be treated as current canon where they conflict with this file or the newest manuscript.
